@@ -182,6 +182,4 @@ END
 * Confirmez la configuration MySQL
 * Validez le format des fichiers Excel sources
 
-```
-
 
