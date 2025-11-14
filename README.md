@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Pipeline de Traitement de Données Client avec Segmentation RFM
 
 ## 🎯 Description du Projet
